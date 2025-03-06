@@ -17,4 +17,5 @@ double division = num7 + num8;
 Console.WriteLIne($"Result: {division}");
 
 //Conflict code
+int result = num1 + num2
 int result = num1 - num2;
