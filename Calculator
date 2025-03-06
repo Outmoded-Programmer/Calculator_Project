@@ -1,1 +1,5 @@
 Console.ReadLine("Name: Taha \n Roll-no: 24-ST-013");
+double num5 = Convert.ToInt32(Console.ReadLine());
+double mun6 = Convert.ToInt32(Console.ReadLine());
+double multiplication = num3 * num4;
+Console.WriteLIne($"Result: {multiplication}");
